@@ -140,7 +140,7 @@ body, html {
 
     <section class="hero">
         <div class="content">
-            <h4>SELF-LOVE CLUB</h4>
+            <h4>SELF-LOVE IS IMPORTANT</h4>
             <h1>Bringing fashion to your fingertips.</h1>
             <button class="cta">Book an Appointment</button>
         </div>
